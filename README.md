@@ -11,8 +11,6 @@
 - ✅ リセットボタンで元の状態に戻せる
 - ✅ **Render で簡単にデプロイ可能**
 
-![demo screenshot](https://user-images.githubusercontent.com/your-image-url.png) <!-- Optional: Add screenshot -->
-
 ---
 
 ## 🔧 使用技術
